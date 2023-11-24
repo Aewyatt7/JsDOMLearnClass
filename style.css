@@ -1,0 +1,15 @@
+/* Slects all the elements in the radio group div "*" */
+.radioGroup * {
+    margin: 0;
+    padding: 0;
+}
+
+.radioGroup{
+    text-align: center;
+    margin: .5rem;
+}
+button{
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+
